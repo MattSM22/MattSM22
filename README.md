@@ -5,7 +5,7 @@
 
 #### A tecnologia é algo que não está fora do meu cotidiano, seja na forma de consumo ou na forma de aprendizagem. Tomei esse caminho porque gostaria de poder ter a sensação de criar coisas novas de poder desenvolver e olhar aquilo que eu crio funcionando e ajudando na vida de pessoas. Acho que aprender coisas novas relacionado a está área me facina muito e por isso quero trilhar esse caminho por muitos anos e sempre poder desenvolver e aprender mais.
 
-<br><br>
+<br>
 
 ## 💻 Skills
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -23,12 +23,12 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
-<br><br>
+<br>
 
 ## 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-magalh%C3%A3es-99b139182/)
 
-<br><br>
+<br>
 
 ## 📊 Github Stats
 
