@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="center">I am a fullstack developer, and I'm currently deepening my knowledge in UI/UX Design.</h6>
+<h6 align="center">I am a fullstack developer, and I'm currently deepening my knowledge in <em>UI/UX Design</em>.</h6>
 
 ###
 
@@ -14,19 +14,21 @@
 
 ###
 
-<h4 align="left">🏷️ Biograph</h4>
+<h3 align="left">🏷️ Biograph</h4>
 
 ###
 
-<h5 align="left">. 📚 I hold a Bachelor's degree in Computer Science from Uninove and a technical certification in IT from ETEC Heliópolis.</h6>
+
+
+><h5 align="left">💾 I'm currently learning Figma and UI/UX Design</h5>
+><h5 align="left">📚 I hold a Bachelor's degree in <strong>Computer Science</strong> from Uninove</h5>
+><h5 align="left">💡 My main programming languages are TypeScript and JavaScript with React and Node</h5>
 
 ###
 
-<h5 align="left">. 💡 My main programming languages are TypeScript and JavaScript, using React and Node.js as my primary frameworks.</h6>
+<br>
 
-###
-
-<h4 align="left">🔗 Links</h4>
+<h3 align="left">🔗 Links</h4>
 
 ###
 
@@ -44,7 +46,7 @@
 
 ###
 
-<h4 align="left">🔨 Technologies and Tools</h4>
+<h3 align="left">🔨 Technologies and Tools</h4>
 
 ###
 
