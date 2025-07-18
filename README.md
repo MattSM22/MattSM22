@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="500" src="https://media1.tenor.com/m/7pCDh8tgCjwAAAAd/sousou-no-frieren-hieter-frieren.gif"  />
+<img align="right" height="400" src="https://media1.tenor.com/m/7pCDh8tgCjwAAAAd/sousou-no-frieren-hieter-frieren.gif"  />
 
 ###
 
@@ -18,15 +18,11 @@
 
 ###
 
-<h6 align="left">. 🪁 I’m a big fan of gaming — you’ll often find me playing Counter-Strike or Valorant in my free time. I also love staying active and enjoy playing sports whenever I get the chance.</h6>
+<h5 align="left">. 📚 I hold a Bachelor's degree in Computer Science from Uninove and a technical certification in IT from ETEC Heliópolis.</h6>
 
 ###
 
-<h6 align="left">. 📚 I hold a Bachelor's degree in Computer Science from Uninove and a technical certification in IT from ETEC Heliópolis.</h6>
-
-###
-
-<h6 align="left">. 💡 My main programming languages are TypeScript and JavaScript, using React and Node.js as my primary frameworks.</h6>
+<h5 align="left">. 💡 My main programming languages are TypeScript and JavaScript, using React and Node.js as my primary frameworks.</h6>
 
 ###
 
