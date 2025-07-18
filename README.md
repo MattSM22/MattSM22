@@ -1,46 +1,79 @@
-### 🚀 Olá eu sou Matheus Magalhães
-<br>
+<h1 align="center">🟣✨🟣</h1>
 
-## 📖 Sobre mim
+###
 
-#### A tecnologia é algo que não está fora do meu cotidiano, seja na forma de consumo ou na forma de aprendizagem. Tomei esse caminho porque gostaria de poder ter a sensação de criar coisas novas de poder desenvolver e olhar aquilo que eu crio funcionando e ajudando na vida de pessoas. Acho que aprender coisas novas relacionado a está área me facina muito e por isso quero trilhar esse caminho por muitos anos e sempre poder desenvolver e aprender mais.
+<h4 align="center">Hello, I'm Matheus, welcome to my Github 💜</h4>
 
-<br>
+###
 
-## 💻 Skills
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<h6 align="center">I am a fullstack developer, and I'm currently deepening my knowledge in UI/UX Design.</h6>
 
-<br>
+###
 
-## 🌐 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-magalh%C3%A3es-99b139182/)
+<img align="right" height="500" src="https://media1.tenor.com/m/7pCDh8tgCjwAAAAd/sousou-no-frieren-hieter-frieren.gif"  />
 
-<br>
+###
 
-## 📊 Github Stats
+<h4 align="left">🏷️ Biograph</h4>
 
-![Matheus Github stats](https://github-readme-stats.vercel.app/api?username=MattSM22&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MattSM22&theme=tokyonight&hide_border=false)
+###
 
-<br>
+<h6 align="left">. 🪁 I’m a big fan of gaming — you’ll often find me playing Counter-Strike or Valorant in my free time. I also love staying active and enjoy playing sports whenever I get the chance.</h6>
 
-## 🛰️ Tecnologias usadas
+###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MattSM22&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h6 align="left">. 📚 I hold a Bachelor's degree in Computer Science from Uninove and a technical certification in IT from ETEC Heliópolis.</h6>
 
+###
 
+<h6 align="left">. 💡 My main programming languages are TypeScript and JavaScript, using React and Node.js as my primary frameworks.</h6>
+
+###
+
+<h4 align="left">🔗 Links</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/mathh.mag/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mattsm-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/MattSM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="left">🔨 Technologies and Tools</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+</div>
+
+###
